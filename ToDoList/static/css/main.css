@@ -3,13 +3,16 @@ div{
 }
 
 #content {
+	font-family: Garamond;
 	border: 1px solid black;
 	background-color: #66CCFF;
 }
 #content.form {
 	background-color: #FF;
+	font-family: Brush Script MT;
 }
 table, form {
+	font-family: Calibri;
 	margin-left: auto;
 	margin-right:auto;
 	border-collapse: collapse;
